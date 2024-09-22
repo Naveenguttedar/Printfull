@@ -4,7 +4,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="shadow-lg  text-black p-4">
+    <nav className="shadow-lg fixed bg-white z-10 w-full text-black p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="md:hidden" onClick={() => setIsOpen(!isOpen)}>
           <button className="relative w-5 h-5 flex flex-col justify-between items-center group">
