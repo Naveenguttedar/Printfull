@@ -1,0 +1,24 @@
+{
+  "ProductFeatures": [
+    {
+      "feature": "Create",
+      "img": "https://printify.com/pfh/assets/legacy/custom-products.png ",
+      "title": "Custom Products",
+      "description": "Easily add your designs to a wide range of products using our free tools"
+    },
+
+    {
+      "feature": "Sell",
+      "img": "https://printify.com/pfh/assets/legacy/your-products.png",
+      "title": "on your terms",
+      "description": "You choose the products,sale price ,and where to sell"
+    },
+
+    {
+      "feature": "we handle",
+      "img": "https://printify.com/pfh/assets/legacy/fullfillment.png",
+      "title": "fulfillment",
+      "description": "Once an order is placed, we automatically handle all the printing and delivery logistics"
+    }
+  ]
+}
